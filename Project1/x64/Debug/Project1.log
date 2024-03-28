@@ -1,7 +1,4 @@
-﻿  Block.cpp
+﻿  Tetris.cpp
   main.cpp
-  Tetris.cpp
   正在生成代码...
-main.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl Tetris::Tetris(int,int,int,int,int)" (??0Tetris@@QEAA@HHHHH@Z)，函数 main 中引用了该符号
-main.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl Tetris::play(void)" (?play@Tetris@@QEAAXXZ)，函数 main 中引用了该符号
-D:\Program Files\My_project\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 2 个无法解析的外部命令
+  Project1.vcxproj -> D:\Program Files\My_project\Project1\x64\Debug\Project1.exe
