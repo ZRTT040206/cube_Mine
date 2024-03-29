@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Program Files\\My_project\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BCD724E-AF83-4D81-A4F1-2BCA31D7CBB9}|Project1.vcxproj|D:\\Program Files\\My_project\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1BCD724E-AF83-4D81-A4F1-2BCA31D7CBB9}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1BCD724E-AF83-4D81-A4F1-2BCA31D7CBB9}|Project1.vcxproj|D:\\Program Files\\My_project\\Project1\\Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1BCD724E-AF83-4D81-A4F1-2BCA31D7CBB9}|Project1.vcxproj|solutionrelative:Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BCD724E-AF83-4D81-A4F1-2BCA31D7CBB9}|Project1.vcxproj|D:\\Program Files\\My_project\\Project1\\Tetris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1BCD724E-AF83-4D81-A4F1-2BCA31D7CBB9}|Project1.vcxproj|solutionrelative:Tetris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BCD724E-AF83-4D81-A4F1-2BCA31D7CBB9}|Project1.vcxproj|D:\\Program Files\\My_project\\Project1\\Tetris.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{1BCD724E-AF83-4D81-A4F1-2BCA31D7CBB9}|Project1.vcxproj|D:\\Program Files\\My_project\\Project1\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1BCD724E-AF83-4D81-A4F1-2BCA31D7CBB9}|Project1.vcxproj|solutionrelative:Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCD724E-AF83-4D81-A4F1-2BCA31D7CBB9}|Project1.vcxproj|D:\\Program Files\\My_project\\Project1\\Tetris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BCD724E-AF83-4D81-A4F1-2BCA31D7CBB9}|Project1.vcxproj|solutionrelative:Tetris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCD724E-AF83-4D81-A4F1-2BCA31D7CBB9}|Project1.vcxproj|D:\\Program Files\\My_project\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BCD724E-AF83-4D81-A4F1-2BCA31D7CBB9}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,65 +38,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tetris.h",
-              "DocumentMoniker": "D:\\Program Files\\My_project\\Project1\\Tetris.h",
-              "RelativeDocumentMoniker": "Tetris.h",
-              "ToolTip": "D:\\Program Files\\My_project\\Project1\\Tetris.h",
-              "RelativeToolTip": "Tetris.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-27T09:54:13.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Program Files\\My_project\\Project1\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "D:\\Program Files\\My_project\\Project1\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-27T09:15:06.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Tetris.cpp",
               "DocumentMoniker": "D:\\Program Files\\My_project\\Project1\\Tetris.cpp",
               "RelativeDocumentMoniker": "Tetris.cpp",
               "ToolTip": "D:\\Program Files\\My_project\\Project1\\Tetris.cpp",
               "RelativeToolTip": "Tetris.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-27T12:45:48.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Block.cpp",
               "DocumentMoniker": "D:\\Program Files\\My_project\\Project1\\Block.cpp",
               "RelativeDocumentMoniker": "Block.cpp",
               "ToolTip": "D:\\Program Files\\My_project\\Project1\\Block.cpp",
               "RelativeToolTip": "Block.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-27T09:53:27.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "Tetris.h",
+              "DocumentMoniker": "D:\\Program Files\\My_project\\Project1\\Tetris.h",
+              "RelativeDocumentMoniker": "Tetris.h",
+              "ToolTip": "D:\\Program Files\\My_project\\Project1\\Tetris.h",
+              "RelativeToolTip": "Tetris.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-27T09:54:13.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Block.h",
               "DocumentMoniker": "D:\\Program Files\\My_project\\Project1\\Block.h",
               "RelativeDocumentMoniker": "Block.h",
               "ToolTip": "D:\\Program Files\\My_project\\Project1\\Block.h",
               "RelativeToolTip": "Block.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-27T09:53:23.091Z",
               "EditorCaption": ""
